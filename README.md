@@ -60,5 +60,5 @@ python link-x.py
 * OM BRAHMAN. will not be responsible for any Misuse
 
 #### Every Suggestions are Welcomed
-* Contact via <a href="mailto:toxicnoob.sl4d3.official@gmail.com">Email</a>
+* Contact via <a href="mailto: krishpandat580@gmail.com">Email</a>
 
