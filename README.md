@@ -49,7 +49,7 @@
 apt update -y
 apt upgrade -y
 pkg install python git -y
-git clone https://github.com/Toxic-Noob/Link-X
+git clone https://github.com/factvoidbyom-lgtm/LINK-PHISH.git
 cd Link-X
 python setup.py
 python link-x.py
