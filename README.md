@@ -57,15 +57,8 @@ python link-x.py
 
 ## Note:
 * This tool is only for Educational Purpose
-* ToxicNoob Inc. will not be responsible for any Misuse
+* OM BRAHMAN. will not be responsible for any Misuse
 
 #### Every Suggestions are Welcomed
 * Contact via <a href="mailto:toxicnoob.sl4d3.official@gmail.com">Email</a>
 
-### Tool ScreenShots :
-![Link-X Screenshot](https://j.top4top.io/p_2611er4g04.jpg)
-![Link-X Screenshot](https://k.top4top.io/p_2611nfsus5.jpg)
-![Link-X Screenshot](https://f.top4top.io/p_26110qugx3.jpg)
-
-### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
