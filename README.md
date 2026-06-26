@@ -13,6 +13,7 @@
 * Removed useless, user's problematic Functionality: Custom Web Page
 ### Images:
 <img width="718" height="794" alt="Image" src="https://github.com/user-attachments/assets/793d83ce-c257-4628-9e60-4460501ac4b9" />
+
 ### Attack Methods:
 * Camera
 * Voice
