@@ -65,3 +65,7 @@ python link-x.py
 #### Every Suggestions are Welcomed
 * Contact via <a href="mailto: krishpandat580@gmail.com">Email</a>
 
+### New tool is coming soon
+<img width="720" height="621" alt="Image" src="https://github.com/user-attachments/assets/26dc894e-2621-418b-9d76-dd4ccde41f13" /><b><p align="center">Hack with Link</p></b>
+
+<img width="718" height="794" alt="Image" src="https://github.com/user-attachments/assets/793d83ce-c257-4628-9e60-4460501ac4b9" />
